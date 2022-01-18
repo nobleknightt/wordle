@@ -1,0 +1,9 @@
+# pyproject.toml tells build tools (like pip and build) what is required to build your project.
+# https://packaging.python.org/en/latest/tutorials/packaging-projects/#creating-pyproject-toml
+
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
