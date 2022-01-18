@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 if __name__ == "__main__":
 
     setup(
-        name="wordle",
+        name="cli-wordle",
         version="0.0.1",
         description="Wordle in Terminal",
         long_description=long_description,
