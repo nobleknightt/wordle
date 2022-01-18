@@ -3,7 +3,7 @@ Wordle in Terminal
 
 ## Installation
 ```
-python -m pip install wordle
+python -m pip install cli-wordle
 ```
 
 ## Screenshots
